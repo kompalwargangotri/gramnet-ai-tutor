@@ -19,6 +19,35 @@ GramNet AI Tutor is an offline-first, multilingual education platform designed f
 - TinyLLaMA-compatible local LLM integration
 - Online/offline server detection and manual server configuration
 
+## Application Screenshots
+
+<table>
+  <tr>
+    <th>Splash Screen</th>
+    <th>AI Tutor</th>
+    <th>Adaptive Quiz</th>
+    <th>Offline Library</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/splash-screen.jpeg" width="180" alt="GramNet splash screen"></td>
+    <td><img src="screenshots/ai-tutor-chat.jpeg" width="180" alt="Multilingual AI tutor chat"></td>
+    <td><img src="screenshots/adaptive-quiz.jpeg" width="180" alt="Adaptive quiz configuration"></td>
+    <td><img src="screenshots/offline-library.jpeg" width="180" alt="Offline NCERT library"></td>
+  </tr>
+  <tr>
+    <th>Student Dashboard</th>
+    <th>Parent Insights</th>
+    <th>Science Glossary</th>
+    <th>Medal Gallery</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/student-dashboard.jpeg" width="180" alt="Student progress dashboard"></td>
+    <td><img src="screenshots/parent-insights.jpeg" width="180" alt="Parent learning insights"></td>
+    <td><img src="screenshots/science-glossary.jpeg" width="180" alt="Offline science glossary"></td>
+    <td><img src="screenshots/medal-gallery.jpeg" width="180" alt="Student medal gallery"></td>
+  </tr>
+</table>
+
 ## System Architecture
 
 ![GramNet system architecture](diagrams/block_diagram.png)
