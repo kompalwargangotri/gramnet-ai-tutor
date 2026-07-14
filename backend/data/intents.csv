@@ -1,0 +1,20 @@
+text,intent
+hello,greeting
+hi,greeting
+hey,greeting
+good morning,greeting
+good evening,greeting
+
+bye,goodbye
+exit,goodbye
+see you,goodbye
+
+2+2,math
+5*6,math
+solve 10+5,math
+calculate 12/4,math
+
+what is photosynthesis,study
+explain respiration,study
+what is digestion,study
+how plants make food,study

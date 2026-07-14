@@ -1,9 +1,0 @@
-pandas
-sentence-transformers
-torch
-vosk
-sounddevice
-pyttsx3
-langdetect
-argostranslate
-llama-cpp-python

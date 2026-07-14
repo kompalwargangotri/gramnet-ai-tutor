@@ -1,0 +1,47 @@
+﻿name: ai_tutor_app
+description: "Offline-first multilingual AI tutor with adaptive quizzes, voice learning, OCR and RAG."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+
+  # Required for API communication
+  http: ^1.2.0
+  provider: ^6.0.5
+
+  # Required for Voice Support
+  speech_to_text: ^7.3.0
+  flutter_tts: ^4.2.5
+  shared_preferences: ^2.5.5
+  fl_chart: ^0.70.2
+  image_picker: ^1.1.2
+  google_mlkit_text_recognition: ^0.12.0
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/logo.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/quiz_database.csv
