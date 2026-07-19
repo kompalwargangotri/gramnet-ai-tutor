@@ -231,5 +231,10 @@ This keeps the repository lightweight and avoids redistributing third-party educ
 
 **Gangotri Kompalwar**
 
-- GitHub: [kompalwargangotri](https://github.com/kompalwargangotri)
-- LinkedIn: [Gangotri Kompalwar](https://www.linkedin.com/in/gangotri-kompalwar-4635b9359)
+- [GitHub](https://github.com/kompalwargangotri)
+  
+- [LinkedIn](https://www.linkedin.com/in/gangotri-kompalwar-4635b9359)
+
+- [Portfolio](https://kompalwargangotri.github.io/)
+  
+- [Email](mailto:kompalwargangotri@gmail.com)
