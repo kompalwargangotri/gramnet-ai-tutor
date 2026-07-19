@@ -236,5 +236,3 @@ This keeps the repository lightweight and avoids redistributing third-party educ
 - [LinkedIn](https://www.linkedin.com/in/gangotri-kompalwar-4635b9359)
 
 - [Portfolio](https://kompalwargangotri.github.io/)
-  
-- [Email](mailto:kompalwargangotri@gmail.com)
